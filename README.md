@@ -40,7 +40,11 @@ The solution integrates modern DevOps tools and practices including source contr
 
 ## Source Code
 
-The Java application source code is available in the `hello-world` folder of this repository.
+The application source code is maintained in a separate GitHub repository:
+
+- : https://github.com/AdhamKhaled74/hello-world.githttps://github.com/AdhamKhaled74/hello-world.git
+
+This repository contains the Java web application that is built using Maven, containerized with Docker, and deployed to Amazon EKS through the CI/CD pipeline.
 
 ## AWS Infrastructure
 
